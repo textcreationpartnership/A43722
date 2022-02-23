@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony against the people call'd Ranters and their pleads and a call or invitation to them to return to the Lord again.</title>
+            <author>Hickock, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43722</idno>
+            <idno type="STC">Wing H1918</idno>
+            <idno type="STC">ESTC R31100</idno>
+            <idno type="EEBO-CITATION">11771813</idno>
+            <idno type="OCLC">ocm 11771813</idno>
+            <idno type="VID">48894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48894)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1485:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony against the people call'd Ranters and their pleads and a call or invitation to them to return to the Lord again.</title>
+                  <author>Hickock, Richard.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Richard Hickock.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ranters.</term>
+               <term>Antinomianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48894:1"/>
+            <pb n="1" facs="tcp:48894:1" rendition="simple:additions"/>
+            <head>A TESTIMONY Againſt the People call'd RANTERS AND THEIR PLEADS, AND A Call or Invitation to them to re<g ref="char:EOLhyphen"/>turn to the LORD again.</head>
+            <p>REturn, and come down to judgement, for down to judgement you again muſt come, that judgement may have its perfect work, to the bringing down of your imaginations, (which is hip't above the light of Chriſt) leading &amp; guiding you to do ſuch Works which you once would not have done, when the light was your leader, which being tur<g ref="char:EOLhyphen"/>ned from, you are become like the Sow that was waſhed, which is again wallowing in the mire; &amp; to the dog, w<hi rend="sup">ch</hi> is ſwallowing down his vomit which he once had vomited up; ſo the wicked ſpirit which was once caſt out, being entred again, hath made you ſeven-fold the children of the devil then before; for before when you had done wickedly, you would have confeſt it was ſo, and that you ſhould not have done it; but now Wickedneſs is not counted Wickedneſs by you, and ſo you are turned into the Way that leads to hell and deſtruction; and you being tur<g ref="char:EOLhyphen"/>ned from the light, with the light upon your evil actions you do not look, but with that part which begets &amp; brings them forth; ſo looking with that eye upon the evil, which begat, mo<g ref="char:EOLhyphen"/>ved,
+<pb n="2" facs="tcp:48894:2"/>
+and led into the evil, the evil to that part which begot it and brought it forth, doth not appear ſinful, ſo you conclude it is not ſin.<note place="margin">Eph 4<g ref="char:punc">▪</g>18, 19, 20. Joh 12.40</note> And thus you being turned from the light of Chriſt, you are deceived by the god of the World, who having enter<g ref="char:EOLhyphen"/>ed in again, hath blinded your minds, and intangled you again with the yoke that bondageth the true ſeed; ſo inſtead of being grown up in the Way, Work, and Truth of God, you are tur<g ref="char:EOLhyphen"/>ned back into the iniquity, and that in a higher degree of wick<g ref="char:EOLhyphen"/>edneſs then before, ſwearing, and pleading for ſwearing; acting, working, and doing other wickedneſs, and laying it upon the Lord, as him to be the mover and leader thereunto; and they who durſt not go from the counſel of God to do ſuch wicked<g ref="char:EOLhyphen"/>neſs, you count them low, and your ſelves high, (growne above ſuch) but where you are high, it is in iniquity and wickedneſs, where you being found, are found far below the leaſt of Gods dear and tender ones, who durſt not yeild their members ſer<g ref="char:EOLhyphen"/>vants to ſin.</p>
+            <p>And with the light you are found to be below the leaſt of Gods children, and to this you ſhall confeſs when the light ari<g ref="char:EOLhyphen"/>ſeth to your condemnation which ſhall be vvhen all the vviles and ſubtilties of the Devil cannot hide you, who novv by his ſubtilty hath deceived you, and made you believe that ſin is not ſin; &amp; this he hath done by drawing your minds from the light into the imaginary part, vvhere he vvorks, and his vviles and ſnares are laid, vvho is the Devil, that old Serpent, vvho hath no part nor place in the light; and with the light his ſubtilties and vviles is now ſeen, vvhereby he deceives you, and thou<g ref="char:EOLhyphen"/>ſands who are are turned out from the light.</p>
+            <p>And under the Name of light &amp; darkneſs, the two ſtates, births, ſeeds, and conditions is declared, which either in one, or in the other of them, every man &amp; vvoman is; the ſwearers, curſers, lyars, drunkards, adulterous, proud, covetous, and all manner of evil workers are in the darkneſs, degeneration, alienation, and tranſgreſſion, children of darkneſs, who are wandred from the ſpirit into the fleſh, where, and in whom the works of the fleſh is manifeſt, whoſe ſeed, birth, and ſtate is accurſed; So they vvho are come out from ſin and evil, and abide in that povver that keeps and preſerves them ſo, are in the light, chil<g ref="char:EOLhyphen"/>dren
+<pb n="3" facs="tcp:48894:2" rendition="simple:additions"/>
+of the light, and of the day-time, and are lead of the ſpirit of God, ſo in and among them the works of the ſpirit is manifeſt; and they are they whoſe ſeed, birth, and ſtate is bleſſed, and who are ſeperated (not by the ſelf-ſeperation, but) by the power of God from the World, and from the ravening Wolves, and wild devouring beaſts, who not onely deſtroyed the pure ſeed and life in themſelves, but alſo ſeek to do it in o<g ref="char:EOLhyphen"/>thers, by labouring to draw others mindes from the light of Chriſt, into the liberty of the fleſh, where the devourer makes his prey, who hath his ſervants for that end, who will neither enter, nor ſuffer others who would, but lay wait for blood, yea for their own blood, and lurk privily for their own lives; and they ſay, Caſt in thy Lot among us, let us all have one Purſe; but wo ſhall come upon every worker of iniquity; yea, although wo hath been known, yet wo again muſt come upon the tranſ<g ref="char:EOLhyphen"/>greſſor, who again is gone aſtray from the Lord and his ſpirit: And this is a ſure word to all you who are turned from the light into the liberty of the fleſh, and liſcentious walking again.</p>
+            <p n="1">1. Now therefore you people called <hi>Ranters,</hi> who wil ſwear and rant out one oath after another, conſider what, and whoſe work you are doing, for the Lord will bring every wicked work into judgement, and return you a reward according to your work, into your own boſome; for God is not pleaſed with wickedneſs, neither is he the Author of ſin; ſo you who will ſwear, and do, and act other wickedneſs, and plead a mo<g ref="char:EOLhyphen"/>tion of God to do ſo, you are abuſers of God, and falſe accu<g ref="char:EOLhyphen"/>ſers of him who is holy and unchangeable, and cannot behold iniquity; and therefore as he once called out from it<g ref="char:punc">▪</g> and then condemned it, he doth not now call into it, and juſtifie it, which he once called out from.</p>
+            <p n="2">2. And you who act, and do wickedly, and plead a croſs in ſo doing, who when you have done wickedly, ſay, therein you have taken up the croſs.</p>
+            <p>To you I ſay, Conſider what croſs it is which you take up; for as the croſs of Chriſt the light, crucifies the world, &amp; ſeed of the Serpent, ſo there is a croſs which crucifies Chriſt the true ſeed, and birth of God; when you vvere coming out from vvickedneſs and ſin, then the light of Chriſt vvas a croſs to the
+<pb n="4" facs="tcp:48894:3"/>
+ſin and evil that you were to come out from, and to that part which was loath to have you leave the Devil, vvhich being ta<g ref="char:EOLhyphen"/>ken up, redeemed you out of the evil, ſo crucified that part w<hi rend="sup">ch</hi> was loath to have you leave the evil, ſo brought redemption to you; &amp; this Light or Croſs is not changeable, (as now to lead into, what it before lead from) neither are they changeable who walk in it, but you being turned out from the light, are gone into the imaginary part, vvhere you are lead by the ſubtilty of the Serpent, vvhoſe Wiles, Baits, and Snares are laid there in the imaginary part, where he moves, vvho moves to lead you into ſuch Wickedneſs as you vvere once redeemed from, or durſt not have done when the light vvas your Leader; and as the light when it moved, it vvas a croſs to that part vvhich vvould not have you leave ſin, ſo now the Serpent by his ſubtilty being got in again, and moving to his Works again, his motion is a croſs to the light and life of Chriſt which before was raiſed, vvhich being taken up, crucifies the true ſeed and birth of God; and ſo you have taken up a croſs of the Devils making, and not the true croſs, the croſs of Chriſt, which breaks the Serpents head.</p>
+            <p n="3">3. And you vvho ſay there is nothing ſin, if a man himſelf do not account it ſin, and ſo make it ſin unto himſelf, how is your latter end become vvorſe then your beginning? There vvas a time theſe and the like Words you durſt not have utter<g ref="char:EOLhyphen"/>ed forth; yet though the fear of the Lord be departed from by you, yet the light of Chriſt is the ſame to day, yeſterday, and for ever, and condemns that to be pride and ſin, which men who are out of the light do not count ſin, but call it decency, comlineſs, and handſomneſs; and men and people who are co<g ref="char:EOLhyphen"/>vetous, who being acted by that part which leads them into the covetouſneſs, will ſell dear, and make hard bargains to others, though they vvould not have others to do ſo to them; and to heap up riches thus, or by thus doing, is not by ſuch counted ſin or covetouſneſs, but good husbandry, and carefulneſs, when the light of Chriſt condemns it to be ſin, though they do not.</p>
+            <p n="4">4. And you who ſay you can vvear gold and ſilver lace, &amp; rib<g ref="char:EOLhyphen"/>bans, &amp; poynts, &amp; keep up the faſhions of the World, though you once could not, (I believe you can) but it is becauſe you
+<pb n="5" facs="tcp:48894:3" rendition="simple:additions"/>
+are departed from the light, ſo have cauſed the glory of the Lord to depart from you, whoſe glory is not in gold and ſil<g ref="char:EOLhyphen"/>ver, and earthly things; and you being given up to your own hearts luſts and deſire, have received the golden Cup at the Harlots hand that ſitteth upon many Waters, ſo are decking your ſelves with her glory who is arrayed in Purple and Scarlet colour, and decked with Gold, and precious Stones, and Pearls, the treaſures of the Earth</p>
+            <p n="5">5. You who ſay it was a croſs for you to pull and rip of your Laces, Ribbans, Poynts, <hi>&amp;c.</hi> but now it is a croſs to you to put it on; and ſo tells them that are in the coming out of thoſe things, as their eyes, hearts, and minds had been ſet in, that though they now be ripping, yet there will be a time they ſhall be made to put ſuch things on again, in the croſs; telling them that you witneſs this; ſo that now it is no offence to you to wear ſuch things, nor to ſee others do ſo; (&amp; I believe you in this alſo) But it was an offence to you when the light, (whoſe glory is not in earthly things) was up in you; &amp; if you can now put them on again, and you ſee it a croſs to put them on, it is not a croſs to the Devil to be found putting on the Worlds faſhions again, but to the light which called you out of them; and wo is your portion who are found Enemies to the croſs of Chriſt.</p>
+            <p n="6">6. And all you who are pleading a liberty and freedom to ob<g ref="char:EOLhyphen"/>ſerve and do, and walk after the manner of the World, in their Words and Faſhions, who ſay you have unity and fellowſhip with all ſorts of people, you are Enemies to the croſs of Chriſt, which is a croſs to the World, and to its fruits and lovers, which you being in its fruits &amp; unity, your unity is with death, and your agreement with hell, and your liberty and freedom is bondage to the ſeed of God; and between the Seed of God, and the ſeed of the Serpent, there is enmity; and you who have unity where the ſeed of the Serpent is bowed unto, are in the enmity againſt God, and them in whom his ſeed is raiſed, and have not unity with them who are in the light, and walks in the light, as children of the light, whoſe fruits are wrought in God.</p>
+            <p n="7">7. And you who ſay, If every man have his Teacher within
+<pb n="6" facs="tcp:48894:4"/>
+him, then to what purpoſe is it, and wherefore do you, or ſhould any elſe gather themſelves in company, and meet outwardly? And wherefore do you teach and preach to others.</p>
+            <p>
+               <hi>Anſ.</hi> This we do becauſe our minds are turned unto the light of Chriſt (the meaſure of truth in our ſelves) which lea<g ref="char:EOLhyphen"/>deth us to meet together in the Name and fear of the Lord, which they whoſe minds are turned from the light of Chriſt in themſelves, are not met in, though they talk often of the Name and fear of God in their meetings, ſo wants Gods pre<g ref="char:EOLhyphen"/>ſence in their Meetings, and are not of God's Worſhip, and ſuch had need to be informed to their Teacher, though for their age and time they might have been Teachers of others: And we who meet in the Name and fear of the Lord, we durſt not leave nor ceaſe from the aſſembling our ſelves together, as the manner of ſome is, and was; and the fear of the Lord tea<g ref="char:EOLhyphen"/>cheth us to be obedient unto God, and not to quench his ſpi<g ref="char:EOLhyphen"/>rit when it moves to ſpeak, whether in our Meetings, or among the Idolatrous Worſhippers, or in Markets, or High-wayes; and though ſome have their mindes turned to the light of Chriſt, where they find their Teacher within them, and needs not any man to teach them, yet being met in the light and fear of God, where each may feel his power and preſence; that ſon or daughter amongſt them which is moved of God to ſpeak, knowing his voice and motion, ought not to quench his ſpirit, but give up to it, and when they have ſo done, it is the ſpirit that ſpeaks in them, (and ſo Gods teachings) for God is a ſpirit, and is witneſſed in the children of light, doth anſwer where it is raiſed unto his voice; and thus by giving up to the motion of Gods ſpirit, is the pure minds which is after God ſtirred up one in another; and ſo our meetings together in the Name of the Lord, and our ſpeaking as we are moved of God, is profitable and effectual; for being met together in the ſilence, waiting on the Lord in the light, his voice is heard in each particular; and as he moves (in any) to ſpeak, then ſuch are not to be ſilent, <note n="*" place="margin">Eccl. 3.7 1 Cor. 13.23.</note> whether it be to exhort, pray, or prophe<g ref="char:EOLhyphen"/>ſie; and the ſpirits of the Prophets are ſubject to the Prophets, and they may all ſpeak one by one, for God is not the author of confuſion, but of peace, as in all the Churches of the Saints;
+<pb n="7" facs="tcp:48894:4" rendition="simple:additions"/>
+and he gave ſome Apoſtles, and ſome Evangeliſts, and ſome Paſtors and Teachers, for the perfecting of the Saints, for the work of the Miniſtry, for the edifying of the body of Chriſt, <hi>&amp;c.</hi> 
+               <note n="*" place="margin">Eph. 4.11 12, 13.</note> And this Light of Chriſt in man which every one ſhould own for their Teacher, deſtroys not teaching, or preaching forth words, except it be that preaching which is not by the ſpirit of God, but by the words of mans Wiſdom, after the traditions of men, after the rudiments of the world, and not after Chriſt, and this preaching it deſtroys, and leads out from, and ſo to be ſeperated from all them whoſe preaching is there, who are not guided by that of God in them, gone from God's Covenant of light, into the darkneſs, wherein their knowledge is but even as the brute beaſts, and therein they corrupt them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p n="8">8. And you who ſay the word <hi>Thee</hi> and <hi>Thou</hi> (which is true language to any particular perſon) is but a word of indifferen<g ref="char:EOLhyphen"/>cy, and may better be omitted then given to ſome, becauſe it offends and angers them; But this ſaying when the light was your Leader, you would have condemned it, but now you be<g ref="char:EOLhyphen"/>ing apoſtatized from the light, are become one with the chil<g ref="char:EOLhyphen"/>dren of the apoſtatized Jews, ſo cannot ſpeak in the Jews lan<g ref="char:EOLhyphen"/>guage, (the one people) who ſpeak the language of <hi>Canaan,</hi> but according to the language of each people, which is in the fall, where you are returned to the building of <hi>Babel,</hi> putting things out of their place; ſo your building proſpers not, your Tower totters, the day of the Lord is come, and is breaking forth more and more, and hath diſcovered your language and building, and your ſelves to be in the fall, where you are deny<g ref="char:EOLhyphen"/>ing the croſs of Chriſt, and dares not take it up leſt you ſhould anger the enemies of the croſs; and ſo you being friends to the world, are enemies to God and his truth, pleading an indiffe<g ref="char:EOLhyphen"/>rency in ſpeaking truly, as if there were no difference between ſpeaking words in their place, and putting them out of their place; but the friendſhip of the world is enmity againſt God.</p>
+            <p>And if any ſay, <hi>That though</hi> Thee <hi>and</hi> Thou <hi>be the onely pro<g ref="char:EOLhyphen"/>per wards for one particular perſon, yet that language being it is not the custome or manner of our Countrey to take it, we plead for the word</hi> You, <hi>accepting it inſtead of the word thou, which being ac<g ref="char:EOLhyphen"/>cepted
+<pb n="8" facs="tcp:48894:5"/>
+for, or instead of the word</hi> Thee <hi>and</hi> Thou, <hi>we hold it no of<g ref="char:EOLhyphen"/>fence for any to give it, but rather an offence to do otherwiſe.</hi>
+            </p>
+            <p>To whom I anſwer; Firſt, That where it is counted an offence, it is where the pride of heart ſtands, (that would not take it) ſo the pride being up in the heart, man hath exalted himſelf a<g ref="char:EOLhyphen"/>bove the Lord, whom he <hi>thou's</hi> and <hi>thee's</hi> daylie; and he that doth not ſtand in the croſs to proud fleſh, is one with it.</p>
+            <p>Secondly; If it be no offence to thee to take or give the word <hi>you</hi> to one particular perſon, yet it is an offence againſt God, and a lye, where any one is calling another what he is not. And if any yet further object &amp; ſay, <hi>But it is not a lye, nor any offence againſt God at all to</hi> you <hi>a particular perſon, whiles he that</hi> you's <hi>the particulars, intends or means but one by his you-ing, and he or ſhe you-ed accepts the word you as to one, and in the place of</hi> thee <hi>and</hi> thou. To whom I anſwer, That <hi>thee</hi> and <hi>thou</hi> is the proper word to any particular King or other; and he or ſhe who gives a particular the word <hi>you,</hi> inſtead of the word <hi>thee</hi> and <hi>thou,</hi> which is a word of the ſingular number, ſo ſignifies but one, doth not by his or her intending or meaning but one, make that word <hi>you</hi> to be of the ſingular number, or to ſignifie but one, which the word <hi>thou</hi> doth, which if thou by thy intending or meaning, and the other accepting or taking it; cannot make the word <hi>you</hi> of the ſingular number, or to ſignifie but one, then haſt thou lyed in putting the word out of it's place, and ſo ſinned againſt God, and all thy twiſting and twining (Ser<g ref="char:EOLhyphen"/>pent-like) cannot help thee.</p>
+            <p>And this in love to the truth of God, and his dear and holy ſeed, which hath not fellowſhip with the works of darkneſs, was I moved to give out this Teſtimony againſt unjuſt works, wayes, and Pleads, who am a friend to the righteous ſouls of men, and a witneſs againſt all unrighteouſneſs, called,</p>
+            <closer>
+               <signed>Richard Hickock.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alde<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſgate,</hi> 1659.</p>
+            <pb facs="tcp:48894:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
